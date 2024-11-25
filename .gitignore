@@ -1,6 +1,7 @@
 *__pycahce__*
 *.pyc
 input_videos/
+output_videos/
 runs/
 models/
 training/football-players-detection-1/football-players-detection-1
